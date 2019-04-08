@@ -45,7 +45,7 @@ public class ArrayTest
         }while(userExit < 999);
 
         avg = total / count;
-
+///yeet
         display(low, high, avg,count);
     }
     public static void display(int low, int high, int avg, int count)
